@@ -1,0 +1,1 @@
+Treamline laptop shop operations with Python-based stock management software. Track inventory, automate billing, and manage customer transactions. Simplify the buying and selling process with this user-friendly tool.
